@@ -18,7 +18,6 @@ $title = "Проверка на плагиат";
     <? require 'blocks/header.php'; ?>
 
     <!-- header end -->
-    <!-- test -->
     <!-- plagiat start -->
 
     <? require 'blocks/plagiatform.php'; ?>
